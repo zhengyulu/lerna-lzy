@@ -1,6 +1,6 @@
 {
   "name": "@lerna-lzy/core",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "> TODO: description",
   "author": "Julie Lu <julie.lu@ingka.ikea.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@lerna-lzy/utils": "^4.0.4"
+    "@lerna-lzy/utils": "^4.0.5"
   },
   "gitHead": "061fddf758738f6a26ab0529b94711ab48fb9bd1"
 }
