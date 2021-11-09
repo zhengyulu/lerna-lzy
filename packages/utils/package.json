@@ -17,7 +17,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "gitHead": "779ff57dea0c890e1494e95c35cd8c3cd0f7f265"
 }
