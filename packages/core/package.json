@@ -23,8 +23,7 @@
     "@lerna-lzy/utils": "^4.0.11"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://www.npmjs.com/settings/julielzy/packages"
+    "access": "public"
   },
-  "gitHead": "8b38d0021f69ad79ac2d3daf85dd479814ecf6d3"
+  "gitHead": "45b880662c0306e7900200971b0a0129c9f0e50d"
 }
