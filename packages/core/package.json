@@ -24,7 +24,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://www.npmjs.com/settings/julielzy/packages"
   },
-  "gitHead": "779ff57dea0c890e1494e95c35cd8c3cd0f7f265"
+  "gitHead": "8b38d0021f69ad79ac2d3daf85dd479814ecf6d3"
 }
