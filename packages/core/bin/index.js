@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('lerna-lzy')
+console.log('lerna-lzy11')
