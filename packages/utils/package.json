@@ -1,6 +1,6 @@
 {
   "name": "@lerna-lzy/utils",
-  "version": "4.0.6",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Julie Lu <julie.lu@ingka.ikea.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "87779c1d6ca5eafc8fc508c20096f83e19b77ba4"
+  "gitHead": "6fa1f1d2ffdb7672d734cb96e0682e31b8b0416c"
 }
